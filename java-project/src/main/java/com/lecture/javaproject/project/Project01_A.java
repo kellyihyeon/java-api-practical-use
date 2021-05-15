@@ -1,4 +1,4 @@
-package com.lecture.javaproject;
+package com.lecture.javaproject.project;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
